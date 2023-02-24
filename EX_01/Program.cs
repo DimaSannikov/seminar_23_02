@@ -14,7 +14,7 @@
 Console.WriteLine("Введите целое число 1: ");
 int digit_1 = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Введите целое число 1: ");
+Console.WriteLine("Введите целое число 2: ");
 int digit_2 = int.Parse(Console.ReadLine());
 
 int result = digit_2 * digit_2;
