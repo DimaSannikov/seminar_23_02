@@ -10,8 +10,10 @@ int digit_2 = int.Parse(Console.ReadLine());
 if(digit_1 > digit_2)
 {
     Console.WriteLine($"Больше число №1 - {digit_1}");
+    Console.WriteLine($"Меньше число №2 - {digit_2}");
 }
 else
 {
     Console.WriteLine($"Больше число №2 - {digit_2}");
+    Console.WriteLine($"Больше число №2 - {digit_1}");
 }
